@@ -1,5 +1,6 @@
-selenium
-webdriver-manager
-beautifulsoup4
-gspread
-oauth2client
+gspread==6.1.4
+google-auth==2.34.0
+beautifulsoup4==4.12.3
+selenium==4.23.1
+webdriver-manager==4.0.2
+lxml==5.3.0
